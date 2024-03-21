@@ -18,7 +18,4 @@ class Bubblesort:
     def printArray(self):
         for i in range(self.lenght):
             print(self.array[i], end=" ")
-        print()
-
-
-    
+        print()#
